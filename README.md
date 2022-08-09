@@ -14,7 +14,7 @@
   
   <a href="https://github.com/GiovaniOlaia">
 
-### Estudos:
+### Linguagens de estudo:
 
 <img align="center" alt="Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 <img align="center" alt="Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
@@ -29,5 +29,11 @@
 <img align="center" alt="Xamarin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg"/>
 
 </a>
+
+### Contato:
+
+<a href="https://wa.me/5514991838058"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
+<a href="mailto:giovanideleuterioolaia41@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:giovani.olaia@etec.sp.gov.br"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/> </a>
   
 </div>
